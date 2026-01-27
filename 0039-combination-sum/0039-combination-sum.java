@@ -1,24 +1,29 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> res = new ArrayList<>();
-
-        makeCombination(candidates, target, 0, new ArrayList<>(), 0, res);
-        return res;        
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(candidates, target, 0, new ArrayList<>(), result);
+        return result;
     }
 
-    private void makeCombination(int[] candidates, int target, int idx, List<Integer> comb, int total, List<List<Integer>> res) {
-        if (total == target) {
-            res.add(new ArrayList<>(comb));
+    private void backtrack(int[] arr, int target, int index,
+                           List<Integer> path, List<List<Integer>> result) {
+
+        // base case: exact match
+        if (target == 0) {
+            result.add(new ArrayList<>(path));
             return;
         }
 
-        if (total > target || idx >= candidates.length) {
+        // base case: overflow
+        if (target < 0) {
             return;
         }
 
-        comb.add(candidates[idx]);
-        makeCombination(candidates, target, idx, comb, total + candidates[idx], res);
-        comb.remove(comb.size() - 1);
-        makeCombination(candidates, target, idx + 1, comb, total, res);
-    }    
+        // try all options from current index
+        for (int i = index; i < arr.length; i++) {
+            path.add(arr[i]);                    // choose
+            backtrack(arr, target - arr[i], i, path, result); // explore
+            path.remove(path.size() - 1);        // undo (backtrack)
+        }
+    }
 }
