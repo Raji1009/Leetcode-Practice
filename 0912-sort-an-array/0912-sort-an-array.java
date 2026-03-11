@@ -1,31 +1,48 @@
 class Solution {
-    public int[] sortArray(int[] nums) {
-        int max = nums[0];
-        int min = nums[0];
-        for(int i=1;i<nums.length;i++){
-            if(nums[i]>max){
-                max = nums[i];
+    public static int[] sortArray(int arr[]){
+        mergeSort(arr,0,arr.length-1);
+        return arr;
+    }
+    public static void mergeSort(int[] arr, int si, int ei) {
+        if (si >= ei) {
+            return;
+        }
+        int mid = si + (ei - si) / 2;
+
+        mergeSort(arr, si, mid);
+        mergeSort(arr, mid + 1, ei);
+
+        merge(arr, si, mid, ei);
+    }
+
+    public static void merge(int[] arr, int si, int mid, int ei) {
+
+        int[] temp = new int[ei - si + 1];
+
+        int i = si;
+        int j = mid + 1;
+        int k = 0;
+
+        while (i <= mid && j <= ei) {
+
+            if (arr[i] <= arr[j]) {
+                temp[k++] = arr[i++];
+            } else {
+                temp[k++] = arr[j++];
             }
-            if(nums[i]<min){
-                min = nums[i];
-            }
+
         }
-        int range = max-min+1;
-        int[] count = new int[range];
-        for(int i=0;i<nums.length;i++){
-            count[nums[i]-min]++;
+
+        while (i <= mid) {
+            temp[k++] = arr[i++];
         }
-        for(int i=1;i<range;i++){
-            count[i]+=count[i-1];
+
+        while (j <= ei) {
+            temp[k++] = arr[j++];
         }
-        int[] output = new int[nums.length];
-        for(int i=nums.length-1;i>=0;i--){
-            output[count[nums[i]-min]-1] = nums[i];
-            count[nums[i]-min]--;
+
+        for (k = 0, i = si; k < temp.length; k++, i++) {
+            arr[i] = temp[k];
         }
-        for(int i=0;i<nums.length;i++){
-            nums[i] = output[i];
-        }
-        return nums;
     }
 }
