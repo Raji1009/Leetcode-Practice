@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
 ## Matrix
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
