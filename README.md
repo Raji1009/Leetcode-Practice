@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Raji1009/Leetcode-Practice/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Raji1009/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Raji1009/Leetcode-Practice/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
