@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/Raji1009/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raji1009/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0078-subsets](https://github.com/Raji1009/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raji1009/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 ## Simulation
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raji1009/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raji1009/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Raji1009/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raji1009/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
