@@ -1,0 +1,41 @@
+class Solution {
+    private int[] r={-1,1,0,0};
+    private int[] c={0,0,-1,1};
+    private boolean helper(int row,int col,char[][] board,int n,int m,String word,int index,int size){
+        if(index==size){
+            return true;
+        }
+        char ch=board[row][col];
+        board[row][col]='$';
+        for(int i=0;i<4;i++){
+            int ur=row+r[i];
+            int uc=col+c[i];
+
+            if(ur>=0 && ur<n && uc>=0 && uc<m){
+                if(board[ur][uc]==word.charAt(index)){
+                    if(helper(ur,uc,board,n,m,word,index+1,size)){
+                        return true;
+                    }
+                }
+            }
+        }
+        board[row][col]=ch;
+        return false;
+    }
+    public boolean exist(char[][] board, String word) {
+        int n=board.length;
+        int m=board[0].length;
+        int size=word.length();
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(board[i][j]==word.charAt(0)){
+                    if(helper(i,j,board,n,m,word,1,size)){
+                        return true;
+                    }
+                }
+            }
+        }
+        return false;
+    }
+}
