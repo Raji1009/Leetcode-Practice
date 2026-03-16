@@ -10,12 +10,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Raji1009/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0078-subsets](https://github.com/Raji1009/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Raji1009/Leetcode-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Raji1009/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Raji1009/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Raji1009/Leetcode-Practice/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 |  |
@@ -75,9 +78,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
