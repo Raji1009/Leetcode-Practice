@@ -1,43 +1,46 @@
-
 class Solution {
-   public List<List<Integer>> fourSum(int[] nums, int target) {
-       Set<List<Integer>> uniqueQuadruplets = new HashSet<>(); // To store unique quadruplets
-       List<List<Integer>> result = new ArrayList<>();
-       int n = nums.length;
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+        List<List<Integer>> result = new ArrayList<>();
+        Arrays.sort(nums);
 
+        int n = nums.length;
 
-       Arrays.sort(nums); // Sort the array
+        for(int i = 0; i < n; i++) {
 
+            // skip duplicates for i
+            if(i > 0 && nums[i] == nums[i - 1]) continue;
 
-       // Fix first and second elements
-       for (int i = 0; i < n - 3; i++) {
-           for (int j = i + 1; j < n - 2; j++) {
-               long val = (long)target - nums[i] - nums[j]; // Avoid overflow
-               int low = j + 1, high = n - 1;
+            for(int j = i + 1; j < n; j++) {
 
+                // skip duplicates for j
+                if(j > i + 1 && nums[j] == nums[j - 1]) continue;
 
-               // Two-pointer approach
-               while (low < high) {
-                   int sum = nums[low] + nums[high];
+                int left = j + 1;
+                int right = n - 1;
 
+                while(left < right) {
 
-                   if (sum == val) {
-                       uniqueQuadruplets.add(Arrays.asList(nums[i], nums[j], nums[low], nums[high]));
-                       low++;
-                       high--;
-                   }
-                   else if (sum < val) {
-                       low++; // Need larger sum
-                   }
-                   else {
-                       high--; // Need smaller sum
-                   }
-               }
-           }
-       }
+                    long sum = (long) nums[i] + nums[j] + nums[left] + nums[right];
 
+                    if(sum == target) {
+                        result.add(Arrays.asList(nums[i], nums[j], nums[left], nums[right]));
 
-       result.addAll(uniqueQuadruplets); // Convert set to list
-       return result;
-   }
+                        // skip duplicates
+                        while(left < right && nums[left] == nums[left + 1]) left++;
+                        while(left < right && nums[right] == nums[right - 1]) right--;
+
+                        left++;
+                        right--;
+                    }
+                    else if(sum < target) {
+                        left++;
+                    }
+                    else {
+                        right--;
+                    }
+                }
+            }
+        }
+        return result;
+    }
 }
