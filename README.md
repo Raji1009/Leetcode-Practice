@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
