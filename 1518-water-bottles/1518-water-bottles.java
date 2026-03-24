@@ -1,7 +1,6 @@
 class Solution {
     public int numWaterBottles(int numBottles, int numExchange) {
-        int sum=numBottles;
-        return rec(numBottles,numExchange,sum);
+        return rec(numBottles,numExchange,numBottles);
     }
 
     public int rec(int full,int exchange,int sum){
@@ -9,8 +8,7 @@ class Solution {
             return sum;
         }
         int newbottle=full/exchange;
-        sum+=newbottle;
-        int remaingbottle=full%exchange;
-        return rec(newbottle+remaingbottle,exchange,sum);
+        int rembottle=full%exchange;
+        return rec(newbottle+rembottle,exchange,sum+newbottle);
     }
 }
