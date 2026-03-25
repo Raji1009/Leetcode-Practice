@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raji1009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Matrix
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Raji1009/Leetcode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
