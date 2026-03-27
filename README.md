@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Raji1009/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Raji1009/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Raji1009/Leetcode-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raji1009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Raji1009/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raji1009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Raji1009/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
