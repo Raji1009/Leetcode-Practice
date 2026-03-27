@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Raji1009/Leetcode-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raji1009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Raji1009/Leetcode-Practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Matrix
@@ -145,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Raji1009/Leetcode-Practice/tree/master/0798-smallest-rotation-with-highest-score) |
 <!---LeetCode Topics End-->
