@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Raji1009/Leetcode-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raji1009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Raji1009/Leetcode-Practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -44,10 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0018-4sum) |
+| [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 |  |
@@ -70,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -115,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 ## Depth-First Search
 |  |
 | ------- |
