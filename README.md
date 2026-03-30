@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Raji1009/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Raji1009/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
+| [0434-number-of-segments-in-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Raji1009/Leetcode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
