@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Raji1009/Leetcode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3407-substring-matching-pattern](https://github.com/Raji1009/Leetcode-Practice/tree/master/3407-substring-matching-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,4 +167,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Raji1009/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/Raji1009/Leetcode-Practice/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
