@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Raji1009/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Raji1009/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
@@ -195,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Raji1009/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
