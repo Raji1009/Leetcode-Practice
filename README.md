@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Raji1009/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/Raji1009/Leetcode-Practice/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Raji1009/Leetcode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Divide and Conquer
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Raji1009/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Raji1009/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Raji1009/Leetcode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3407-substring-matching-pattern](https://github.com/Raji1009/Leetcode-Practice/tree/master/3407-substring-matching-pattern) |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Raji1009/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/Raji1009/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Raji1009/Leetcode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
