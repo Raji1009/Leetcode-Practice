@@ -1,29 +1,27 @@
 class Solution {
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> result = new ArrayList<>();
-        backtrack(candidates, target, 0, new ArrayList<>(), result);
-        return result;
-    }
+   public List<List<Integer>> combinationSum(int[] nums, int target) {
+       Arrays.sort(nums); // Enables pruning
+       List<List<Integer>> result = new ArrayList<>();
+       List<Integer> curr = new ArrayList<>();
+       backtrack(nums, target, 0, curr, result);
+       return result;
+   }
 
-    private void backtrack(int[] arr, int target, int index,
-                           List<Integer> path, List<List<Integer>> result) {
 
-        // base case: exact match
-        if (target == 0) {
-            result.add(new ArrayList<>(path));
-            return;
-        }
+   private void backtrack(int[] nums, int target, int start, List<Integer> curr, List<List<Integer>> result) {
+       if (target == 0) {
+           result.add(new ArrayList<>(curr)); // copy the current combination
+           return;
+       }
 
-        // base case: overflow
-        if (target < 0) {
-            return;
-        }
 
-        // try all options from current index
-        for (int i = index; i < arr.length; i++) {
-            path.add(arr[i]);                    // choose
-            backtrack(arr, target - arr[i], i, path, result); // explore
-            path.remove(path.size() - 1);        // undo (backtrack)
-        }
-    }
+       for (int i = start; i < nums.length; i++) {
+           if (nums[i] > target) break; // Prune the path
+
+
+           curr.add(nums[i]);
+           backtrack(nums, target - nums[i], i, curr, result); // not i+1 because we can reuse the same element
+           curr.remove(curr.size() - 1); // Backtrack
+       }
+   }
 }
