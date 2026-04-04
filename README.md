@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
+| [0572-subtree-of-another-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [3407-substring-matching-pattern](https://github.com/Raji1009/Leetcode-Practice/tree/master/3407-substring-matching-pattern) |
 ## Design
 |  |
@@ -211,4 +213,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
