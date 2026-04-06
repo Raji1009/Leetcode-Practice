@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raji1009/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raji1009/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raji1009/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Search Tree
 |  |
