@@ -1,32 +1,29 @@
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
-        int zero = 0, one = 0;
-
-        // Step 1: Count preferences
-        for (int s : students) {
-            if (s == 0) {
+        int zero=0;
+        int one=0;
+        for(int s:students){
+            if(s==0){
                 zero++;
-            } else {
+            }
+            else{
                 one++;
             }
         }
-
-        // Step 2: Check sandwiches
-        for (int sand : sandwiches) {
-            if (sand == 0) {
-                if (zero == 0) {
-                    return zero + one; // remaining students
+        for(int sandwich:sandwiches){
+            if(sandwich==0){
+                if(zero==0){
+                    return one;
                 }
                 zero--;
-            } else {
-                if (one == 0) {
-                    return zero + one; // remaining students
+            }
+            else{
+                if(one==0){
+                    return zero;
                 }
                 one--;
             }
         }
-
-        // Step 3: Everyone ate
         return 0;
     }
 }
