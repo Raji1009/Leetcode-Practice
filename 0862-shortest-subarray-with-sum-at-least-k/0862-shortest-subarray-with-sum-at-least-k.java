@@ -1,31 +1,21 @@
-import java.util.*;
-
 class Solution {
     public int shortestSubarray(int[] nums, int k) {
-        int n = nums.length;
-        long[] prefix = new long[n + 1];
-
-        for (int i = 0; i < n; i++) {
-            prefix[i + 1] = prefix[i] + nums[i];
+        int n=nums.length;
+        long[] prefix=new long[n+1];
+        for(int i=0;i<nums.length;i++){
+            prefix[i+1]=prefix[i]+nums[i];
         }
-
-        Deque<Integer> dq = new LinkedList<>();
-        int ans = n + 1;
-
-        for (int i = 0; i <= n; i++) {
-            // Check if we can form a valid subarray
-            while (!dq.isEmpty() && prefix[i] - prefix[dq.peekFirst()] >= k) {
-                ans = Math.min(ans, i - dq.pollFirst());
+        Deque<Integer> dq=new LinkedList<>();
+        int ans=n+1;
+        for(int i=0;i<=n;i++){
+            while(!dq.isEmpty() && prefix[i]-prefix[dq.peekFirst()]>=k){
+                ans=Math.min(ans,i-dq.pollFirst());
             }
-
-            // Maintain increasing prefix sums
-            while (!dq.isEmpty() && prefix[i] <= prefix[dq.peekLast()]) {
+            while(!dq.isEmpty() && prefix[i]<=prefix[dq.peekLast()]){
                 dq.pollLast();
             }
-
             dq.offerLast(i);
         }
-
-        return ans == n + 1 ? -1 : ans;
+        return ans==n+1? -1: ans;
     }
 }
