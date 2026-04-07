@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0434-number-of-segments-in-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Raji1009/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/Raji1009/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Raji1009/Leetcode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3407-substring-matching-pattern](https://github.com/Raji1009/Leetcode-Practice/tree/master/3407-substring-matching-pattern) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Raji1009/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Raji1009/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/Raji1009/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
