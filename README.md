@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raji1009/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0887-super-egg-drop](https://github.com/Raji1009/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raji1009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0887-super-egg-drop](https://github.com/Raji1009/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 | [1518-water-bottles](https://github.com/Raji1009/Leetcode-Practice/tree/master/1518-water-bottles) |
 ## Monotonic Stack
 |  |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Raji1009/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Raji1009/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0887-super-egg-drop](https://github.com/Raji1009/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/Raji1009/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
