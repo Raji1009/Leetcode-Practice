@@ -1,14 +1,16 @@
 class Solution {
-    public int numWaterBottles(int numBottles, int numExchange) {
-        return rec(numBottles,numExchange,numBottles);
+    public int numWaterBottles(int n, int a) {
+       return Solve(n,0,a);
     }
-
-    public int rec(int full,int exchange,int sum){
-        if(full<exchange){
-            return sum;
+    public int Solve(int full,int empty,int a){
+        if(full==0){
+            return 0;
         }
-        int newbottle=full/exchange;
-        int rembottle=full%exchange;
-        return rec(newbottle+rembottle,exchange,sum+newbottle);
+        int drink=full;
+        empty+=full;
+        int newbottles=empty/a;
+        int rembottles=empty%a;
+        return drink+Solve(newbottles,rembottles,a);
+        
     }
 }
