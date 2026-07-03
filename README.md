@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0591-tag-validator](https://github.com/Raji1009/Leetcode-Practice/tree/master/0591-tag-validator) |
 | [0844-backspace-string-compare](https://github.com/Raji1009/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Raji1009/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Raji1009/Leetcode-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0591-tag-validator](https://github.com/Raji1009/Leetcode-Practice/tree/master/0591-tag-validator) |
 | [0844-backspace-string-compare](https://github.com/Raji1009/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Raji1009/Leetcode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Raji1009/Leetcode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
