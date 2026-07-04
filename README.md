@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Raji1009/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Raji1009/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Raji1009/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0434-number-of-segments-in-a-string) |
