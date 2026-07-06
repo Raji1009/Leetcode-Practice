@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/Raji1009/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Raji1009/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Raji1009/Leetcode-Practice/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Raji1009/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Raji1009/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Raji1009/Leetcode-Practice/tree/master/0044-wildcard-matching) |
+| [0087-scramble-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Raji1009/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Raji1009/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
