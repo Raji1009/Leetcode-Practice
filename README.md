@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raji1009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0887-super-egg-drop](https://github.com/Raji1009/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 | [1518-water-bottles](https://github.com/Raji1009/Leetcode-Practice/tree/master/1518-water-bottles) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Monotonic Stack
 |  |
 | ------- |
