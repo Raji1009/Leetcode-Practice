@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Raji1009/Leetcode-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3407-substring-matching-pattern](https://github.com/Raji1009/Leetcode-Practice/tree/master/3407-substring-matching-pattern) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-super-egg-drop](https://github.com/Raji1009/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 | [1518-water-bottles](https://github.com/Raji1009/Leetcode-Practice/tree/master/1518-water-bottles) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Raji1009/Leetcode-Practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raji1009/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
