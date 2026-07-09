@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Raji1009/Leetcode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Raji1009/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raji1009/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0887-super-egg-drop](https://github.com/Raji1009/Leetcode-Practice/tree/master/0887-super-egg-drop) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -334,4 +337,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
