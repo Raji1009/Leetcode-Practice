@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Raji1009/Leetcode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Raji1009/Leetcode-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Raji1009/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0912-sort-an-array](https://github.com/Raji1009/Leetcode-Practice/tree/main/0912-sort-an-array/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raji1009/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0887-super-egg-drop](https://github.com/Raji1009/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Raji1009/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Raji1009/Leetcode-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Raji1009/Leetcode-Practice/tree/master/0136-single-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Raji1009/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0844-backspace-string-compare](https://github.com/Raji1009/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -263,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Raji1009/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0887-super-egg-drop](https://github.com/Raji1009/Leetcode-Practice/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/Raji1009/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -287,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Raji1009/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/Raji1009/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Raji1009/Leetcode-Practice/tree/master/0984-string-without-aaa-or-bbb) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
 | ------- |
@@ -345,4 +352,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
