@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Raji1009/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Raji1009/Leetcode-Practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Raji1009/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Raji1009/Leetcode-Practice/tree/main/0078-subsets/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raji1009/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Raji1009/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raji1009/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Raji1009/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Raji1009/Leetcode-Practice/tree/master/0169-majority-element) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Raji1009/Leetcode-Practice/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Raji1009/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Raji1009/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
