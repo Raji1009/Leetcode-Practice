@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0018-4sum) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Raji1009/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Raji1009/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
