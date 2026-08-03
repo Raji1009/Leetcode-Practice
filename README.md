@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raji1009/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Raji1009/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Raji1009/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Raji1009/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Raji1009/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Raji1009/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Raji1009/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Raji1009/Leetcode-Practice/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raji1009/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
