@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raji1009/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raji1009/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Raji1009/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Raji1009/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raji1009/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raji1009/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Raji1009/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Raji1009/Leetcode-Practice/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Raji1009/Leetcode-Practice/tree/master/0044-wildcard-matching) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raji1009/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Raji1009/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Raji1009/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Raji1009/Leetcode-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
