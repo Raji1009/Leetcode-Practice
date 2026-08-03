@@ -13,20 +13,15 @@ class Solution {
         mergesorted(nums,low,mid,high);
         return count;
     }
-    private int countpairs(int[] nums, int low, int mid, int high) {
-
-        int count = 0;
-        int j = mid + 1;
-
-        for (int i = low; i <= mid; i++) {
-
-            while (j <= high && (long) nums[i] > 2L * nums[j]) {
+    private int countpairs(int[] nums,int low, int mid,int high){
+        int count=0;
+        int j=mid+1;
+        for(int i=low;i<=mid;i++){
+            while(j<=high && (long)nums[i]>2L*nums[j]){
                 j++;
             }
-
-            count += j - (mid + 1);
+            count+= j-(mid+1);
         }
-
         return count;
     }
     private void mergesorted(int[] nums, int low, int mid, int high) {
