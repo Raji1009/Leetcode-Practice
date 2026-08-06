@@ -389,4 +389,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Raji1009/Leetcode-Practice/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Raji1009/Leetcode-Practice/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
